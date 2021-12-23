@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Green
+- 👋 Hi, I’m Tran Thi Xanh
 - 👀 I’m interested in learning programming and English
 - 🌱 I’m currently learning at Passerelles numériques Vietnam
 - 💞️ I am looking for an internship
