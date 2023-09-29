@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tran Thi Xanh
 - 👀 I’m interested in learning programming and English
-- 🌱 I have just graduated from Passerelles numériques Vietnam
+- 🌱 I graduated from Passerelles numériques Vietnam last year
 - 💞️ I am looking for the position of Junior Front-end Developer
 
 <!---
